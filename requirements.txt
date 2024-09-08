@@ -1,0 +1,2 @@
+have some sort of inpyb editor, kaggle, jupyter notebook, vs code anything.
+All prereques should be auto installed after running first couple of lines
